@@ -9,7 +9,7 @@
 		>
 			<p>
 				<em>Ashlar Collective</em> is a UK-based co-housing initiative focused on sustainable, community-led
-				living. Our community is structured around mutual ownership, environment sustainability and community.
+				living. Our project is structured around mutual ownership, environment sustainability and community.
 			</p>
 		</div>
 		<img
