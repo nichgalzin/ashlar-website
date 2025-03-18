@@ -8,8 +8,9 @@
  top-30 left-18 max-w-[500px] bg-[hsla(176.59,49.8%,51.57%,0.9)] p-8"
 		>
 			<p>
-				<em>Ashlar Collective</em> is a UK-based co-housing initiative focused on sustainable, community-led
-				living. Our project is structured around mutual ownership, environment sustainability and community.
+				<strong class="italic">Ashlar Collective</strong> is a UK-based co-housing initiative focused
+				on sustainable, community-led living. We believe the desire to be a part of an active community
+				and the need for secure, affordable housing should not be mutually exclusive.
 			</p>
 		</div>
 		<img
@@ -19,7 +20,7 @@
 		/>
 	</section>
 	<footer class="flex w-full flex-col items-center justify-between gap-3 px-18 py-8 md:flex-row">
-		<a href="mailto:ashlarcollect@gmail.com">Contact Us</a>
+		<a href="mailto:ashlarcollective@gmail.com">Contact Us</a>
 		<p>Ashlar Collective Ltd.</p>
 	</footer>
 </main>
